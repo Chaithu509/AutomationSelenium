@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Suite name="Default Suite">
+<Test name="Dafault Test">
+<classes>
+<class name="Inheritance.class"/>
+<class name="companies.class"/>
+</classes>
+</Test>
+</Suite>
